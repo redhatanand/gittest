@@ -1,0 +1,9 @@
+adding file from the local to remote repo
+git log (displays commit history of complete branch)
+git log --oneline
+git log --oneline -1 (show recent one commit)
+git log <file-name> shows history of specific file
+git status (shows details of working and index area)
+git add * (to stage all modified files)
+git commit -m ‘commit message’ (for committing all files in staging area)
+
